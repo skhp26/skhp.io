@@ -1,0 +1,29 @@
+.smile{
+    display: flex;
+    /* background-color: red; */
+    height: 70px;
+    width: 66px;
+    
+}
+.row{
+    display: flex;
+    /* background-color: pink; */
+    font-size: 45px;
+}
+.gestureandbody{
+    display: flex;
+    /* background-color: red; */
+    height: 71px;
+    width: 342px;
+}
+.heading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.peopleandfantasy{
+    height: 45px;
+    width: 285px;
+}
+.clothingandacc{
+    height: 46px;
+    width: 397px;
+}
